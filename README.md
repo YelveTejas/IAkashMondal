@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p>My Poerfolio <a href="https://ia-kash-mondal-github-io.vercel.app/" target="_blank"></a></p>
+<p><a href="https://ia-kash-mondal-github-io.vercel.app/" target="_blank">My Poerfolio </a></p>
 <a href="https://www.linkedin.com/in/akash-mondal-859b4b228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashmondal" height="30" width="40" /></a>
 </p>
 
