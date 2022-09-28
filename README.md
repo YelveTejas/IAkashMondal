@@ -15,9 +15,9 @@
 
 - 👨‍💻 My Portfilio [https://ia-kash-mondal-github-io.vercel.app/](https://ia-kash-mondal-github-io.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@info.coldfired](https://medium.com/@info.coldfired)
+- 📝 I  write articles on [https://medium.com/@info.coldfired](https://medium.com/@info.coldfired)
 
-- 📫 How to reach me **info.coldfired@gmail.com**
+- 📫 Reach me at **info.coldfired@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tDs06ilsrYZiicl6cRDJEMbYyRunSRjb/view?usp=sharing](https://drive.google.com/file/d/1tDs06ilsrYZiicl6cRDJEMbYyRunSRjb/view?usp=sharing)
 
@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/coldfired" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coldfired" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akashmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashmondal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-mondal-859b4b228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashmondal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
