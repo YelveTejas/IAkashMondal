@@ -39,5 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iakashmondal&show_icons=true&locale=en" alt="iakashmondal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iakashmondal&" alt="iakashmondal" /></p>
+## Github Contribution
 
-![snake gif](https://github.com/IAkashMondal/IAkashMondal/blob/output/github-contribution-grid-snake.gif)
+<div align="center" >
+  ![snake gif](https://github.com/IAkashMondal/IAkashMondal/blob/output/github-contribution-grid-snake.gif)
+</div>
+
