@@ -40,4 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iakashmondal&" alt="iakashmondal" /></p>
 
-![snake gif](https://github.com/IAkashMondal/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/IAkashMondal/blob/output/github-contribution-grid-snake.gif)
