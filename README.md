@@ -42,5 +42,7 @@
 ## Github Contribution
 
   ![snake gif](https://github.com/IAkashMondal/IAkashMondal/blob/output/github-contribution-grid-snake.gif)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
