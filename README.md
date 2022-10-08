@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 My Portfilio [Click here](https://ia-kash-mondal-github-io.vercel.app/)
+- 👨‍💻 My Portfilio [Click here](https://portfolio-peach-chi.vercel.app/)
 
 - 👀 My Github Repositories [Click here](https://github.com/IAkashMondal?tab=repositories)
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p><a href="https://ia-kash-mondal-github-io.vercel.app/" target="_blank">My Poerfolio </a></p>
+<p><a href="https://portfolio-peach-chi.vercel.app/" target="_blank">My Portfolio </a></p>
 <a href="https://www.linkedin.com/in/akash-mondal-859b4b228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashmondal" height="30" width="40" /></a>
 </p>
 
