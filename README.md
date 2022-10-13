@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 My Portfilio [Click here](https://portfolio-peach-chi.vercel.app/)
+- 👨‍💻 My Portfilio [Click here](https://iakashmondal-iakashmondal.vercel.app/)
 
 - 👀 My Github Repositories [Click here](https://github.com/IAkashMondal?tab=repositories)
 
@@ -22,13 +22,13 @@
 
 - 👥 Reach me at **info.coldfired@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tDs06ilsrYZiicl6cRDJEMbYyRunSRjb/view?usp=sharing](https://drive.google.com/file/d/1tDs06ilsrYZiicl6cRDJEMbYyRunSRjb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wWg3y8BhopSfhfpF4IyRpfDDBZPo9w52/view?usp=sharing)
 
 - ⚡ Question? **Why start up's are focused on US based Investors, Instead of Us consumers ?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p><a href="https://portfolio-peach-chi.vercel.app/" target="_blank">My Portfolio </a></p>
+<p><a href="https://iakashmondal-iakashmondal.vercel.app" target="_blank">My Portfolio </a></p>
 <a href="https://www.linkedin.com/in/akash-mondal-859b4b228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashmondal" height="30" width="40" /></a>
 </p>
 
