@@ -14,7 +14,9 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 My Portfilio [Click here](https://iakashmondal-iakashmondal.vercel.app/)
+- 👨‍💻 My Portfilio [Github.io link here](https://iakashmondal.github.io/)
+
+- 👨‍💻 My Portfilio [vercel here](https://iakashmondal-iakashmondal.vercel.app/)
 
 - 👀 My Github Repositories [Click here](https://github.com/IAkashMondal?tab=repositories)
 
