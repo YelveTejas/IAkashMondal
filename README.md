@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p><a href="https://iakashmondal-iakashmondal.vercel.app" target="_blank">My Portfolio </a></p>
+<p><a href="(https://iakashmondal.github.io/" target="_blank">My Portfolio </a></p>
 <a href="https://www.linkedin.com/in/akash-mondal-859b4b228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashmondal" height="30" width="40" /></a>
 </p>
 
